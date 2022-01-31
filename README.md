@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marceloAGSANT
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Pandas and ML
+- 👀 I’m interested in JavaScript and CC
+- 🌱 I’m currently learning JS and Node
 - 💞️ I’m looking to collaborate on new projects for beggingners
 
 <!---
