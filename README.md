@@ -1,7 +1,7 @@
 - 👋 Olá, Meu nome é Marcelo Augusto
-- 👀 Sou tecnico em Desenvolvimento de Sistemas e formação em busca da primeira oportunidade
-- 💻 Atualmente tenho conhecimento em Java Script, básico de TypeScript, MySQL, NoSQL, HTML e CSS
-- 🌱 Atulamente estou aprendendo Java, Spring Boot e microserviços e React
+- 👀 Sou tecnico em Desenvolvimento de Sistemas e curso Ciência da Computação e estou em busca da primeira oportunidade
+- 💻 Atualmente tenho conhecimento em Java, básico de TypeScript, MySQL, NoSQL, HTML e CSS
+- 🌱 Atulamente estou aprendendo, Spring Boot e microserviços e React
 
 
   <a href="https://github.com/marceloAGSANT">
