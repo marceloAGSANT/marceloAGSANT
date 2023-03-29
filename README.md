@@ -1,5 +1,5 @@
 - 👋 Olá, Meu nome é Marcelo Augusto
-- 👀 Sou tecnico em Desenvolvimento de Sistemas e curso Ciência da Computação e estou em busca da primeira oportunidade
+- 👀 Sou tecnico em Desenvolvimento de Sistemas e curso Ciência da Computação 
 - 💻 Atualmente tenho conhecimento em Java, básico de TypeScript, MySQL, NoSQL, HTML e CSS
 - 🌱 Atulamente estou aprendendo, Spring Boot e microserviços e React
 
